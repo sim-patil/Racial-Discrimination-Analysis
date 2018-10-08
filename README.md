@@ -1,17 +1,17 @@
-## Examining Racial Discrimination in the US Job Market
+# Examining Racial Discrimination in the US Job Market
 
-# Background
+## Background
   Racial discrimination continues to be pervasive in cultures throughout the world. Researchers examined the level of racial 
   discrimination in the United States labor market by randomly assigning identical résumés to black-sounding or white-sounding names and
   observing the impact on requests for interviews from employers.
 
-# Data
+## Data
   In the dataset provided, each row represents a resume. The 'race' column has two values, 'b' and 'w', indicating black-sounding and
   white-sounding. The column 'call' has two values, 1 and 0, indicating whether the resume received a call from employers or not.
   
   Note that the 'b' and 'w' values in race are assigned randomly to the resumes when presented to the employer.
 
-# Exercises
+## Exercises
   You will perform a statistical analysis to establish whether race has a significant impact on the rate of callbacks for resumes.
 
   Answer the following questions in this notebook below and submit to your Github account.
@@ -23,9 +23,8 @@
 - Does your analysis mean that race/name is the most important factor in callback success? Why or why not? If not, how would you amend 
   your analysis?
 - You can include written notes in notebook cells using Markdown:
-
  
-# Resources
+## Resources
   1. Experiment information and data source:
      http://www.povertyactionlab.org/evaluation/discrimination-job-market-united-states
   2. Scipy statistical methods: http://docs.scipy.org/doc/scipy/reference/stats.html
