@@ -26,7 +26,8 @@
 
  
 # Resources
-  Experiment information and data source: http://www.povertyactionlab.org/evaluation/discrimination-job-market-united-states
-  Scipy statistical methods: http://docs.scipy.org/doc/scipy/reference/stats.html
-  Markdown syntax: http://nestacms.com/docs/creating-content/markdown-cheat-sheet
-  Formulas for the Bernoulli distribution: https://en.wikipedia.org/wiki/Bernoulli_distribution
+  1. Experiment information and data source:
+     http://www.povertyactionlab.org/evaluation/discrimination-job-market-united-states
+  2. Scipy statistical methods: http://docs.scipy.org/doc/scipy/reference/stats.html
+  3. Markdown syntax: http://nestacms.com/docs/creating-content/markdown-cheat-sheet
+  4. Formulas for the Bernoulli distribution: https://en.wikipedia.org/wiki/Bernoulli_distribution
